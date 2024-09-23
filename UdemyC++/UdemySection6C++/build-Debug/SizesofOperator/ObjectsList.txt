@@ -1,0 +1,1 @@
+../build-Debug/SizesofOperator/main.cpp.o   
