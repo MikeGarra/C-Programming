@@ -1,0 +1,37 @@
+[{
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\RelationalOperators\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\RelationalOperators",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\RelationalOperators\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\RelationalOperators\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\EqualityOperators\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\EqualityOperators",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\EqualityOperators\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\EqualityOperators\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\MixedExpressions\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\MixedExpressions",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\MixedExpressions\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\MixedExpressions\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\IncrementDecrementOperators\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\IncrementDecrementOperators",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\IncrementDecrementOperators\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\IncrementDecrementOperators\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\ArithmeticOperators\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\ArithmeticOperators",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\ArithmeticOperators\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\ArithmeticOperators\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Eruos\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Eruos",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Eruos\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Eruos\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Section8Challenge\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Section8Challenge",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Section8Challenge\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\Section8Challenge\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\LogicalOperators\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\LogicalOperators",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\LogicalOperators\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\LogicalOperators\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\AssignmentOperators\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\AssignmentOperators",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\AssignmentOperators\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection8C++\\AssignmentOperators\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
