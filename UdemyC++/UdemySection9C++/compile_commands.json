@@ -1,0 +1,57 @@
+[{
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\HistogramProject\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\HistogramProject",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\HistogramProject\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\HistogramProject\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\DoWhileLoop\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\DoWhileLoop",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\DoWhileLoop\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\DoWhileLoop\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Range_BasedForLoop\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Range_BasedForLoop",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Range_BasedForLoop\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Range_BasedForLoop\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\forLooping\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\forLooping",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\forLooping\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\forLooping\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ConditionalOperator\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ConditionalOperator",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ConditionalOperator\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ConditionalOperator\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\WhileLoop\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\WhileLoop",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\WhileLoop\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\WhileLoop\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\NestedLoops\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\NestedLoops",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\NestedLoops\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\NestedLoops\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchCases\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchCases",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchCases\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchCases\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Section9Challenge\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Section9Challenge",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Section9Challenge\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Section9Challenge\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ShippingProject\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ShippingProject",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ShippingProject\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\ShippingProject\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchEnum\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchEnum",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchEnum\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\SwitchEnum\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Nested_IF_Statement\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Nested_IF_Statement",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Nested_IF_Statement\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\Nested_IF_Statement\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_ELSE_Statement\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_ELSE_Statement",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_ELSE_Statement\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_ELSE_Statement\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_Statement\\main.cpp",
+  "directory": "C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_Statement",
+  "command": "D:/mingw64/bin/g++.exe -c C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_Statement\\main.cpp -o C:\\Users\\mgarr\\Workspaces\\UdemySection9C++\\IF_Statement\\main.cpp.o -target x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0 -ID:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -ID:\\mingw64\\include\\c++\\14.1.0\\backward -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -ID:\\mingw64\\include -ID:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -ID:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
