@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UdemySection10C++" Database="" Version="10000">
+  <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
+  <Project Name="C++Strings" Path="C++Strings/C++Strings.project" Active="No"/>
+  <Project Name="Section10Challenge" Path="Section10Challenge/Section10Challenge.project" Active="No"/>
+  <Project Name="LetterPyramid" Path="LetterPyramid/LetterPyramid.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="CStyleStrings" ConfigName="Debug"/>
+      <Project Name="C++Strings" ConfigName="Debug"/>
+      <Project Name="Section10Challenge" ConfigName="Debug"/>
+      <Project Name="LetterPyramid" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="CStyleStrings" ConfigName="Release"/>
+      <Project Name="C++Strings" ConfigName="Release"/>
+      <Project Name="Section10Challenge" ConfigName="Release"/>
+      <Project Name="LetterPyramid" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
